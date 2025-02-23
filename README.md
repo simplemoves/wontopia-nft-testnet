@@ -1,2 +1,2 @@
 # Wontopia Nft
-Repo for Wontopia Nft Metadata
+Repo for Wontopia Nft Testnet Metadata
