@@ -1,0 +1,23 @@
+{
+  "name": "Wontopia Looser NFT #2",
+  "description": "Wontopia Looser NFT with power: 1",
+  "image": "https://rose-capitalist-ptarmigan-707.mypinata.cloud/ipfs/bafybeiduwr66rk47ihplmaxqqicbzn3secuzhq6busjq6baelieylikb2y/LOOSE_COIN_1_2.png",
+  "attributes": [
+    {
+      "trait_type": "universe",
+      "value": "loose"
+    },
+    {
+      "trait_type": "nft_index",
+      "value": "2"
+    },
+    {
+      "trait_type": "power",
+      "value": "1"
+    },
+    {
+      "trait_type": "testnet",
+      "value": "true"
+    }
+  ]
+}
