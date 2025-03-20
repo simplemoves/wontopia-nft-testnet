@@ -1,0 +1,23 @@
+{
+  "name": "Wontopia Winner NFT #1",
+  "description": "Wontopia Winner NFT with power: 1",
+  "image": "https://rose-capitalist-ptarmigan-707.mypinata.cloud/ipfs/bafybeicskjw2odntjjb4efy7vw57nqvoi3xz424vshlj2upceniyk7zri4/BRONZE_COIN_1_1.png",
+  "attributes": [
+    {
+      "trait_type": "universe",
+      "value": "win"
+    },
+    {
+      "trait_type": "nft_index",
+      "value": "1"
+    },
+    {
+      "trait_type": "power",
+      "value": "1"
+    },
+    {
+      "trait_type": "testnet",
+      "value": "true"
+    }
+  ]
+}
