@@ -1,0 +1,23 @@
+{
+  "name": "Wontopia Looser NFT #19",
+  "description": "Wontopia Looser NFT with power: 1",
+  "image": "https://ivory-tremendous-elephant-311.mypinata.cloud/ipfs/bafybeifl2g4x3z262gyerzolbzts7ulhvydarpiatsw4vccngzgnw4ytme/LOOSE_COIN_1_19.png",
+  "attributes": [
+    {
+      "trait_type": "universe",
+      "value": "loose"
+    },
+    {
+      "trait_type": "nft_index",
+      "value": "19"
+    },
+    {
+      "trait_type": "power",
+      "value": "1"
+    },
+    {
+      "trait_type": "testnet",
+      "value": "true"
+    }
+  ]
+}
