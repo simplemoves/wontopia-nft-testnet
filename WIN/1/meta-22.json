@@ -1,0 +1,23 @@
+{
+  "name": "Wontopia Winner NFT #22",
+  "description": "Wontopia Winner NFT with power: 1",
+  "image": "https://ivory-tremendous-elephant-311.mypinata.cloud/ipfs/bafybeiepolvfg52ocgtfru55ipp4jdsfplmv7w5bq5ca7dbxcbfr4v6dmi/BRONZE_COIN_1_22.png",
+  "attributes": [
+    {
+      "trait_type": "universe",
+      "value": "win"
+    },
+    {
+      "trait_type": "nft_index",
+      "value": "22"
+    },
+    {
+      "trait_type": "power",
+      "value": "1"
+    },
+    {
+      "trait_type": "testnet",
+      "value": "true"
+    }
+  ]
+}
